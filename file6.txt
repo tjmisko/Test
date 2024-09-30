@@ -1,1 +1,2 @@
 Some interesting stuff
+Hello from user #1
